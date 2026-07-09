@@ -1,0 +1,7 @@
+Audit ID,Type,Scope,Date,Status,Findings
+A-001,Internal,Compliance (GDPR),2026-05-03,Completed,1 major
+A-002,External,IT security,2026-04-01,Completed,0 findings
+A-003,Internal,Fraud detection,2026-06-17,Completed,1 major
+A-004,Regulatory,Supply chain,2026-06-16,Pending Review,N/A
+A-005,Regulatory,Supply chain,2026-07-09,Completed,N/A
+A-006,Regulatory,Financial controls,2026-03-12,Scheduled,2 minor
