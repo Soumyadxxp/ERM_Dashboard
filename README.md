@@ -10,6 +10,17 @@ The Enterprise Risk Management Platform helps organizations identify, monitor, a
 
 ---
 
+<img width="1919" height="632" alt="Screenshot 2026-07-09 142039" src="https://github.com/user-attachments/assets/e5b970a8-70cd-4d5a-8941-689ee25a40bb" />
+
+<img width="1904" height="970" alt="Screenshot 2026-07-09 142117" src="https://github.com/user-attachments/assets/add9f9a2-156e-4baf-94ef-0c82acb47bb7" />
+
+<img width="1908" height="856" alt="Screenshot 2026-07-09 142223" src="https://github.com/user-attachments/assets/f9bd7a07-ffb8-435b-a05e-c869c5ceb53b" />
+
+<img width="1916" height="794" alt="Screenshot 2026-07-09 142346" src="https://github.com/user-attachments/assets/1be7bd7c-e05a-4237-bfdf-317f558e5a2c" />
+
+<img width="1916" height="776" alt="Screenshot 2026-07-09 142443" src="https://github.com/user-attachments/assets/9042140b-8a19-4706-a60e-b5be161a2a5f" />
+
+
 ## Features
 
 ### Authentication
