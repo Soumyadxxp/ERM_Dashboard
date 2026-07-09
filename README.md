@@ -115,7 +115,7 @@ The Enterprise Risk Management Platform helps organizations identify, monitor, a
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ERM_dashboard.git
+git clone https://github.com/Soumyadxxp/ERM_dashboard.git
 ```
 
 Navigate to the project directory:
